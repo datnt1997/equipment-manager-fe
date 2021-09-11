@@ -1,0 +1,13 @@
+{
+  "add": "Add",
+  "edit": "Edit",
+  "delete": "Delete",
+  "approve": "Approve",
+  "reject": "Reject",
+  "create_equipment": "Create Equipment",
+  "edit_equipment": "Edit Equipment",
+  "create_equipment_successfully_message": "Create equipment successfully!",
+  "edit_equipment_successfully_message": "Edit equipment successfully!",
+  "edit_status_equipment_successfully_message": "Edit status equipment successfully!",
+  "delete_equipment_successfully_message": "Delete equipment successfully!"
+}
